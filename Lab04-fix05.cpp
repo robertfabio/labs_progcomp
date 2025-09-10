@@ -13,7 +13,8 @@ int main() {
 	cout <<"Digite um numero inteiro: ";
 	cin >> numero;
 	absoluto();
-	cout << "O valor absoluto: " << valorabsoluto << endl;
+	cout << "O valor absoluto: " << valorabsoluto
+		<< endl;
 
 	system("pause");
 	
